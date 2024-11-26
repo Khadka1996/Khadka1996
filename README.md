@@ -81,8 +81,11 @@
   </a>
 </p>
 
+
+
 ---
-<!-- GitHub Stats Section -->
+<details>
+  <summary>Github Stats ⚡</summary>
 <div style="background-color: black; padding: 20px 0; display: flex; justify-content: space-evenly; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadka1996&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
@@ -95,6 +98,7 @@
 <!-- GitHub Streak -->
 <p align="center" style="background-color: black; padding: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadka1996&" alt="GitHub Streak" style="border-radius: 10px;"/>
+  </details>
 </p>
 
 ---
