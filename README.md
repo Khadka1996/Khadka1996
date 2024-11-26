@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Manish Khadka</h1>
-
-<p align="center">
+<div align="center" style="display: inline-flex; align-items: center;">
+  <h1 style="margin-right: 10px;">Hi 👋, I'm Manish Khadka
   <img src="https://komarev.com/ghpvc/?username=khadka1996&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</h1>
+</div>
+
+
 
 <p align="center">
   <a href="https://twitter.com/maneez_khadka" target="_blank">
@@ -15,50 +17,51 @@
 
 <div align="center">
   <!-- Java Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" title="Java" />
   <img width="12" />
   
   <!-- React Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" title="React" />
   <img width="12" />
   
   <!-- Node.js Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" title="Node.js" />
   <img width="12" />
   
   <!-- Next.js Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" title="Next.js" />
   <img width="12" />
   
   <!-- JavaScript Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" title="JavaScript" />
   <img width="12" />
   
   <!-- Kafka Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="kafka logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="kafka logo" title="Kafka" />
   <img width="12" />
   
+  <!-- Figma Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" title="Figma" />
+  <img width="12" />
+  
+  <!-- Spring Boot Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring boot logo" title="Spring Boot" />
+  <img width="12" />
+  
+  <!-- Postman Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" title="PostgreSQL" />
+  <img width="12" />
+  
+  <!-- MongoDB Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" title="MongoDB" />
+  <img width="12" />
+  
+  <!-- MySQL Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" title="MySQL" />
 </div>
 
 
-
----
-<!-- GitHub Stats Section -->
-<div style="display: flex; justify-content: space-evenly; margin-bottom: 20px;">
-  <div style="flex: 1; margin-right: 20px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadka1996&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=khadka1996&show_icons=true&locale=en" alt="GitHub Stats" />
-  </div>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadka1996&" alt="GitHub Streak" />
-</p>
-
----
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/manishkhadka1996" target="_blank">
@@ -78,4 +81,21 @@
   </a>
 </p>
 
+---
+<!-- GitHub Stats Section -->
+<div style="background-color: black; padding: 20px 0; display: flex; justify-content: space-evenly; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 20px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadka1996&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=khadka1996&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px;"/>
+  </div>
+</div>
+
+<!-- GitHub Streak -->
+<p align="center" style="background-color: black; padding: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadka1996&" alt="GitHub Streak" style="border-radius: 10px;"/>
+</p>
+
+---
 
