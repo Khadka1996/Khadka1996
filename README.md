@@ -10,7 +10,7 @@
   <a href="https://twitter.com/maneez_khadka" target="_blank">
     <img src="https://img.shields.io/twitter/follow/maneez_khadka?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-  <a href="https://khadka-manish.com/" target="_blank">
+  <a href="https://khadka-manish.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-blue?style=for-the-badge" alt="Portfolio Link" />
   </a>
 </p>
