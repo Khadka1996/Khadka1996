@@ -1,105 +1,92 @@
-<div align="center" style="display: inline-flex; align-items: center;">
-  <h1 style="margin-right: 10px;">Hi 👋, I'm Manish Khadka
-  <img src="https://komarev.com/ghpvc/?username=khadka1996&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</h1>
-</div>
-
-
+Hi 👋, I'm Manish Khadka
 
 <p align="center">
-  <a href="https://twitter.com/maneez_khadka" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/maneez_khadka?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://khadka-manish.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-blue?style=for-the-badge" alt="Portfolio Link" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+Scalable+Web+Applications" />
 </p>
 
-<div align="center">
-  <!-- Java Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" title="Java" />
-  <img width="12" />
-  
-  <!-- React Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" title="React" />
-  <img width="12" />
-  
-  <!-- Node.js Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" title="Node.js" />
-  <img width="12" />
-  
-  <!-- Next.js Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" title="Next.js" />
-  <img width="12" />
-  
-  <!-- JavaScript Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  
-  <!-- Kafka Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="kafka logo" title="Kafka" />
-  <img width="12" />
-  
-  <!-- Figma Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" title="Figma" />
-  <img width="12" />
-  
-  <!-- Spring Boot Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring boot logo" title="Spring Boot" />
-  <img width="12" />
-  
-  <!-- Postman Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" />
-  
-  <!-- MongoDB Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" title="MongoDB" />
-  <img width="12" />
-  
-  <!-- MySQL Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" title="MySQL" />
-</div>
-
-
-<h3 align="left"></h3>
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/manishkhadka1996" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-@manishkhadka1996-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <!-- Facebook -->
-  <a href="https://fb.com/100018666631945" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Manish%20Khadka-blue?logo=facebook&style=for-the-badge" alt="Facebook" />
-  </a>
-  <!-- CodePen -->
-  <a href="https://codepen.io/manish_khadka" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-@manish_khadka-blue?logo=codepen&style=for-the-badge" alt="CodePen" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/Khadka1996" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Khadka1996-blue?logo=github&style=for-the-badge" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Khadka1996&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+🚀 About Me
+
+💼 Full Stack Software Engineer
+
+☕ Passionate about Java, Spring Boot and scalable backend systems
+
+⚛️ Building modern React & Next.js applications
+
+🐳 Experienced with Docker, Linux, Nginx and VPS deployments
+
+🌍 Based in Kathmandu, Nepal
+
+🌱 Current Focus
+
+Enterprise Java Development
+
+Microservices Architecture
+
+Cloud Deployment
+
+AI-powered Applications
+
+Performance & Security
+
+💻 Tech Stack
+
+Languages
 
 
----
-<details>
-  <summary>Github Stats ⚡</summary>
-<div style="background-color: black; padding: 20px 0; display: flex; justify-content: space-evenly; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1; margin-right: 20px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khadka1996&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=khadka1996&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px;"/>
-  </div>
-</div>
 
-<!-- GitHub Streak -->
-<p align="center" style="background-color: black; padding: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadka1996&" alt="GitHub Streak" style="border-radius: 10px;"/>
-  </details>
+Frontend
+
+React • Next.js • Tailwind CSS • HTML5 • CSS3 • Redux • shadcn/ui
+
+Backend
+
+Spring Boot • Spring Security • Spring Data JPA • Hibernate • Node.js • Express.js • REST APIs • JWT • Maven
+
+Databases
+
+PostgreSQL • MongoDB • MySQL • Redis
+
+DevOps & Tools
+
+Docker • Docker Compose • Linux • Ubuntu • Nginx • PM2 • Git • GitHub • GitLab • Kafka • Postman • VS Code • IntelliJ IDEA • Figma
+
+🌐 Connect
+
+🌍 Portfolio: https://khadka-manish.com.np
+
+💼 LinkedIn: https://linkedin.com/in/manishkhadka1996
+
+🐙 GitHub: https://github.com/Khadka1996
+
+🐦 X: https://twitter.com/maneez_khadka
+
+📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khadka1996&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadka1996&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Khadka1996&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khadka1996&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Khadka1996&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+"Code is engineered, not just written."
+
+⭐ If you like my work, consider starring my repositories.
