@@ -1,3 +1,5 @@
+<p align="right"><a href="https://wa.me/9779823153502"><img src="https://img.shields.io/badge/Hire%20Me%20%E2%86%92-161b22?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Hire Me - WhatsApp" /></a></p>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05060a,55:0f3b33,100:1DCD9F&text=Manish%20Khadka&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Team%20Lead%20%C2%B7%20Kathmandu%2C%20Nepal&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Manish Khadka" />
 </p>
@@ -9,11 +11,11 @@
 </p>
 
 <p align="center">
-<a href="https://khadka-manish.com.np"><img src="https://img.shields.io/badge/Portfolio-khadka--manish.com.np-1DCD9F?style=for-the-badge&logo=googlechrome&logoColor=05060a&labelColor=05060a" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/manishkhadka1996"><img src="https://img.shields.io/badge/LinkedIn-manishkhadka1996-1DCD9F?style=for-the-badge&logo=linkedin&logoColor=1DCD9F&labelColor=05060a" alt="LinkedIn" /></a>
-<a href="https://x.com/maneez_khadka"><img src="https://img.shields.io/badge/X-@maneez__khadka-1DCD9F?style=for-the-badge&logo=x&logoColor=1DCD9F&labelColor=05060a" alt="X" /></a>
-<a href="mailto:mnzkhadka1996@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1DCD9F?style=for-the-badge&logo=gmail&logoColor=1DCD9F&labelColor=05060a" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Khadka1996&label=PROFILE%20VIEWS&color=1DCD9F&style=for-the-badge&labelColor=05060a" alt="Profile views" />
+<a href="https://khadka-manish.com.np"><img src="https://img.shields.io/badge/Portfolio-khadka--manish.com.np-161b22?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/manishkhadka1996"><img src="https://img.shields.io/badge/LinkedIn-manishkhadka1996-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://x.com/maneez_khadka"><img src="https://img.shields.io/badge/X-@maneez__khadka-161b22?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" /></a>
+<a href="mailto:mnzkhadka1996@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Khadka1996&label=PROFILE%20VIEWS&color=161b22&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
 </p>
 
 <br/>
@@ -24,7 +26,7 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **Full Stack Developer** and **Team Lead / Technical Coordinator** at **Intersect Info Developers**, Kathmandu. I build fast, SEO-friendly web apps with **Next.js, React and TypeScript** on the front end and **Java Spring Boot and Node.js** on the back end — and ship them to production on Vercel, VPS and cPanel.
+I'm a **Full Stack Developer** and **Team Lead / Technical Coordinator** based in Kathmandu, Nepal. I build fast, SEO-friendly web apps with **Next.js, React and TypeScript** on the front end and **Java Spring Boot and Node.js** on the back end — and ship them to production on Vercel, VPS and cPanel.
 
 - 🧭 Leading multi-developer teams — GitLab/GitHub workflows, CI/CD, sprint planning
 - 🏗️ Designing scalable REST APIs & microservices with Spring Boot
@@ -81,33 +83,6 @@ I'm a **Full Stack Developer** and **Team Lead / Technical Coordinator** at **In
 
 <br/>
 
-## `—— FEATURED WORK`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[Wonder Travelers](https://wondertravelers.com)**<br/>
-<sub>Nepal travel platform — Next.js, Node.js, MongoDB</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**[Everestkit](https://everestkit.com)**<br/>
-<sub>Content & tools site, SEO and performance tuned</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**[Portfolio](https://github.com/Khadka1996/Portfolio_manish)**<br/>
-<sub>khadka-manish.com.np — Next.js, Tailwind, cosmic UI</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## `—— GITHUB STATS`
 
 <p align="center">
@@ -122,7 +97,7 @@ I'm a **Full Stack Developer** and **Team Lead / Technical Coordinator** at **In
 <br/>
 
 <p align="center">
-<a href="https://khadka-manish.com.np"><img src="https://img.shields.io/badge/Open%20to%20full--time%20roles%20%26%20freelance%20projects-→%20Let's%20talk-1DCD9F?style=for-the-badge&labelColor=05060a" alt="Hire me" /></a>
+<a href="https://khadka-manish.com.np"><img src="https://img.shields.io/badge/Open%20to%20full--time%20roles%20%26%20freelance%20projects-→%20Let's%20talk-161b22?style=for-the-badge&labelColor=0d1117" alt="Hire me" /></a>
 </p>
 
 <p align="center"><sub><code>"Code is engineered, not just written."</code></sub></p>
