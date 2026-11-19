@@ -89,7 +89,7 @@ I'm a **Full Stack Developer** and **Team Lead / Technical Coordinator** based i
 ## `—— GITHUB STATS`
 
 <p align="center">
-<img width="85%" src="https://github-readme-stats.vercel.app/api?username=Khadka1996&show_icons=true&rank_icon=github&hide=contribs&card_width=495&bg_color=05060a&title_color=1DCD9F&icon_color=1DCD9F&text_color=E6EDF3&ring_color=1DCD9F&border_color=1DCD9F33&border_radius=12&hide_title=false&cache_seconds=3600" alt="GitHub stats" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api?username=Khadka1996&show_icons=true&commits_year=2026&rank_icon=github&hide=contribs&card_width=495&bg_color=05060a&title_color=1DCD9F&icon_color=1DCD9F&text_color=E6EDF3&ring_color=1DCD9F&border_color=1DCD9F33&border_radius=12&hide_title=false&cache_seconds=3600" alt="GitHub stats" />
 <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadka1996&layout=compact&langs_count=8&card_width=495&bg_color=05060a&title_color=1DCD9F&text_color=E6EDF3&border_color=1DCD9F33&border_radius=12&cache_seconds=3600" alt="Top languages" />
 </p>
 
