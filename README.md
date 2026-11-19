@@ -89,12 +89,12 @@ I'm a **Full Stack Developer** and **Team Lead / Technical Coordinator** based i
 ## `—— GITHUB STATS`
 
 <p align="center">
-<img width="85%" src="https://github-readme-stats.vercel.app/api?username=Khadka1996&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=495&bg_color=05060a&title_color=1DCD9F&icon_color=1DCD9F&text_color=E6EDF3&ring_color=1DCD9F&border_color=1DCD9F33&border_radius=12&hide_title=false" alt="GitHub stats" />
-<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadka1996&layout=compact&langs_count=8&card_width=495&bg_color=05060a&title_color=1DCD9F&text_color=E6EDF3&border_color=1DCD9F33&border_radius=12" alt="Top languages" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api?username=Khadka1996&show_icons=true&include_all_commits=true&rank_icon=github&card_width=495&bg_color=05060a&title_color=1DCD9F&icon_color=1DCD9F&text_color=E6EDF3&ring_color=1DCD9F&border_color=1DCD9F33&border_radius=12&hide_title=false&cache_seconds=3600" alt="GitHub stats" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadka1996&layout=compact&langs_count=8&card_width=495&bg_color=05060a&title_color=1DCD9F&text_color=E6EDF3&border_color=1DCD9F33&border_radius=12&cache_seconds=3600" alt="Top languages" />
 </p>
 
 <p align="center">
-<img width="85%" src="https://streak-stats.demolab.com?user=Khadka1996&background=05060a&border=1DCD9F33&stroke=1DCD9F33&ring=1DCD9F&fire=1DCD9F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1DCD9F&sideLabels=9FF3DC&dates=8B949E&border_radius=12&card_width=900" alt="GitHub streak" />
+<img width="85%" src="https://streak-stats.demolab.com?user=Khadka1996&background=05060a&border=1DCD9F33&stroke=1DCD9F33&ring=1DCD9F&fire=1DCD9F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1DCD9F&sideLabels=9FF3DC&dates=8B949E&border_radius=12&card_width=900&v=20261119" alt="GitHub streak" />
 </p>
 
 <br/>
